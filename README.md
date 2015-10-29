@@ -1,6 +1,7 @@
 # Carousel-javascript
 <!DOCTYPE html>
 <html>
+
     <header>
     	<title> Carousel</title>    
     	<link rel="stylesheet" type="text/css" href="css/style.css">	
@@ -21,6 +22,7 @@
 	   </script>
 		
     </header>
+	
     <body>
 			<div id="carousel">
 				<div class="carousel">
